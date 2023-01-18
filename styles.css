@@ -1,0 +1,22 @@
+h1 {
+    color: maroon;
+  background-color: lime;
+  border: 2px solid black;
+}
+
+
+h2 {
+color: red;
+}
+
+body {
+  font-family:Verdana, Geneva, sans-serif;
+}
+
+.hr-line {
+	margin: 20px 0;
+	padding: 0;
+	height: 6px;
+	border: none;
+	background: linear-gradient(45deg, #333, #ddd);
+}
